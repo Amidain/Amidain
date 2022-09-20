@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amidain
-- 👀 I’m interested in ...
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lukaszmostowiec@gmail.com
