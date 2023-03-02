@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Amidain
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Lukasz, @Amidain
+- 👀 I’m interested in Java, Test Automation
+- 🌱 I’m currently learning Selenium, Rest API testing along with discovering new possibilities in core Java 
+- 💞️ I’m looking to collaborate on Test Automation projects.
 - 📫 How to reach me: lukaszmostowiec@gmail.com
 
 <!---
